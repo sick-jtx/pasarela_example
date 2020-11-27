@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.sdk.in-app-payments:google-pay:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1d9bd4701c4e69e589547f056d24012/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1d9bd4701c4e69e589547f056d24012/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1d9bd4701c4e69e589547f056d24012/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sdk.in-app-payments/google-pay/1.2.0/4293a75f885c4436d66b697e9604d6c15c985aa3/google-pay-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
